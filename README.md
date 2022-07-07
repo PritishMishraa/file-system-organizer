@@ -1,9 +1,7 @@
 <h1 align="center">file-system-organizer</h1>
 
-<p align="center">
-  <a herf="https://www.npmjs.com/package/@pritish__mishraa/file_system_organizer"><img src="https://img.shields.io/npm/v/@pritish__mishraa/file_system_organizer" /></a>
-  <a herf="https://github.com/PritishMishraa/file-system-organizer/issues"><img src="https://img.shields.io/github/issues/PritishMishraa/fileSystemOrganizer" /></a>
-</p>
+[![](https://img.shields.io/npm/v/@pritish__mishraa/file_system_organizer?style=for-the-badge)](https://www.npmjs.com/package/@pritish__mishraa/file_system_organizer)
+[![](https://img.shields.io/github/issues/PritishMishraa/fileSystemOrganizer?style=for-the-badge)](https://github.com/PritishMishraa/file-system-organizer/issues)
 
  
 ### installation
