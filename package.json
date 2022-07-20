@@ -1,7 +1,7 @@
 {
   "name": "@pritish__mishraa/file_system_organizer",
   "description": "A CLI tool to organize and view your folders",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
